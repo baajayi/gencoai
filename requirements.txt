@@ -1,0 +1,8 @@
+python-dotenv
+chromadb
+llama-index
+gradio
+langchain
+google-generativeai
+langchain-google-genai
+llama_index.readers.youtube_transcript
